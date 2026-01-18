@@ -1,10 +1,10 @@
 # 📒 BioLLama‑R: Agentic Healthcare AI  
-**Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)**
+✨ **Domain‑Adaptive Pretraining (DAPT) + Supervised Fine‑Tuning (SFT) + RLHF with Direct Preference Optimization (DPO)**
 
 ---
 
 ## 🔑 Project Overview
-BioLLama‑R is the continuation of our earlier **BioLLama** project, which focused on biomedical language modeling with **DAPT** (Domain‑Adaptive Pretraining) and **SFT** (Supervised Fine‑Tuning).  
+BioLLama‑R is the continuation of our earlier [** BioLLama**](https://github.com/DhanushGD/BioLLama) project, which focused on biomedical language modeling with **DAPT** (Domain‑Adaptive Pretraining) and **SFT** (Supervised Fine‑Tuning).  
 
 In this new project, we extend BioLLama with **RLHF (Reinforcement Learning from Human Feedback)** using **Direct Preference Optimization (DPO)**. The result is a model that combines:
 - **Domain understanding** (via DAPT on biomedical corpora)  
